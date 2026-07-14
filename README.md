@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Green-hats/Green-hats/main/assets/header.svg" width="100%" alt="Green hat — student developer building useful things" />
-
 <a href="https://github.com/Green-hats">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+useful+desktop+tools;Automating+repetitive+work;Exploring+robotics+%26+computer+vision" alt="Building useful desktop tools; Automating repetitive work; Exploring robotics and computer vision" />
 </a>
