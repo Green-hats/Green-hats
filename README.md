@@ -5,7 +5,7 @@
 </a>
 
 [![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.greenhats.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://blog.greenhats.dev)
+[![Blog](https://img.shields.io/badge/Blog-blog.greenhats.dev-0E83CD?style=flat-square&logo=hexo&logoColor=white)](https://blog.greenhats.dev)
 
 </div>
 
