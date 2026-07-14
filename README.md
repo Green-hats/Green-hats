@@ -6,13 +6,12 @@
 
 [![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Green--hats-181717?style=flat-square&logo=github)](https://github.com/Green-hats)
-![HEBUST](https://img.shields.io/badge/Student-HEBUST-7C3AED?style=flat-square)
 
 </div>
 
 ## 👋 About me
 
-> 学生开发者 @ HEBUST<br>
+> 学生开发者 <br>
 > 正在尝试桌面应用、Python 自动化和机器人相关项目。<br>
 > 喜欢把真实需求做成可以运行、可以交付的工具。
 
