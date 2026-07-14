@@ -16,35 +16,6 @@
 > 正在尝试桌面应用、Python 自动化和机器人相关项目。<br>
 > 喜欢把真实需求做成可以运行、可以交付的工具。
 
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Green-hats/HotLyricMac">🎵 HotLyricMac</a></h3>
-      <p>macOS 原生桌面歌词，支持 Apple Music / Spotify、逐字歌词、主题与系统级快捷键。</p>
-      <p><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Green-hats/AobaNova">🎮 AobaNova</a></h3>
-      <p>支持 ONScripter / KIRIKIRI2 双引擎的 macOS 原生视觉小说模拟器。</p>
-      <p><code>Swift</code> <code>C</code> <code>Objective-C++</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Green-hats/JetArm-Feeding-Robot">🤖 JetArm Feeding Robot</a></h3>
-      <p>融合嘴部定位、坐标估计与机械臂动作控制的辅助喂食流程。</p>
-      <p><code>Python</code> <code>ROS</code> <code>Computer Vision</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Green-hats/Feeding-Robot-Management-System">📊 Feeding Robot Management System</a></h3>
-      <p>辅助喂食机器人的数据管理、记录与统计系统。</p>
-      <p><code>Node.js</code> <code>Express</code> <code>SQLite</code></p>
-    </td>
-  </tr>
-</table>
-
 ## 🧰 Tools I've used
 
 <div align="center">
