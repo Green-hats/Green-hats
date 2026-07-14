@@ -22,11 +22,15 @@
   <img src="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite,ros,apple,git&theme=dark&perline=9" alt="Swift, Python, TypeScript, Node.js, FastAPI, SQLite, ROS, Apple platforms and Git" />
 </div>
 
-## 📊 GitHub snapshot
+## 📊 GitHub stats
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Green-hats&theme=tokyonight" alt="Green-hats GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Green-hats&theme=tokyonight" alt="Repositories by language" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="./profile/stats.svg" alt="Green-hats GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
+  </a>
 </div>
 
 ---
