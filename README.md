@@ -32,7 +32,3 @@
     <img height="165" src="./profile/top-langs.svg" alt="Most used languages" />
   </a>
 </div>
-
----
-
-<div align="center"><sub>Thanks for stopping by — 欢迎看看我的项目。</sub></div>
