@@ -1,51 +1,63 @@
 <div align="center">
 
-# Hi, I'm Green hat 👋
+<img src="https://raw.githubusercontent.com/Green-hats/Green-hats/main/assets/header.svg" width="100%" alt="Green hat — student developer building useful things" />
 
-**学生开发者 @ HEBUST · 把想法做成真正能用的工具**
-
-专注于 macOS 原生应用、自动化工具与机器人项目  
-Building native macOS apps, automation tools, and robotics projects.
+<a href="https://github.com/Green-hats">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Building+useful+desktop+tools;Automating+repetitive+work;Exploring+robotics+%26+computer+vision" alt="Building useful desktop tools; Automating repetitive work; Exploring robotics and computer vision" />
+</a>
 
 [![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Green--hats-181717?style=flat-square&logo=github)](https://github.com/Green-hats)
+![HEBUST](https://img.shields.io/badge/Student-HEBUST-7C3AED?style=flat-square)
 
 </div>
 
-## About me
+## 👋 About me
 
-- 🍎 用 **Swift / SwiftUI / AppKit** 构建 macOS 原生应用
-- ⚙️ 喜欢用 **Python** 把重复工作自动化
-- 🤖 做过融合 **ROS、计算机视觉与 Web 系统** 的辅助喂食机器人
-- 🌱 目前持续学习桌面端工程、跨语言桥接与完整产品交付
+> 学生开发者 @ HEBUST<br>
+> 正在尝试桌面应用、Python 自动化和机器人相关项目。<br>
+> 喜欢把真实需求做成可以运行、可以交付的工具。
 
-## Featured projects
+## 🚀 Featured projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**HotLyricMac**](https://github.com/Green-hats/HotLyricMac) | Apple Music / Spotify 桌面歌词，支持逐字时间轴、主题与系统级快捷键 | Swift · SwiftUI · AppKit |
-| [**AobaNova**](https://github.com/Green-hats/AobaNova) | 支持 ONScripter / KIRIKIRI2 双引擎的 macOS 原生视觉小说模拟器 | Swift · C · Objective-C++ |
-| [**Anime RSS Automation**](https://github.com/Green-hats/Anime-RSS-Automation) | RSS 内容采集、整理与自动化处理，提供 API 和前端预览 | Python · FastAPI · JavaScript |
-| [**Galgame Auto Reader**](https://github.com/Green-hats/Galgame-Auto-Reader) | 根据剪贴板文本长度自动等待并点击的 Windows 视觉小说工具 | Python · Tkinter · Win32 |
-| [**JetArm Feeding Robot**](https://github.com/Green-hats/JetArm-Feeding-Robot) | 融合嘴部定位、坐标估计与机械臂动作控制的辅助喂食流程 | Python · ROS · Computer Vision |
-| [**Feeding Robot Management System**](https://github.com/Green-hats/Feeding-Robot-Management-System) | 辅助喂食机器人的数据管理、记录与统计系统 | Node.js · Express · SQLite |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Green-hats/HotLyricMac">🎵 HotLyricMac</a></h3>
+      <p>macOS 原生桌面歌词，支持 Apple Music / Spotify、逐字歌词、主题与系统级快捷键。</p>
+      <p><code>Swift</code> <code>SwiftUI</code> <code>AppKit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Green-hats/AobaNova">🎮 AobaNova</a></h3>
+      <p>支持 ONScripter / KIRIKIRI2 双引擎的 macOS 原生视觉小说模拟器。</p>
+      <p><code>Swift</code> <code>C</code> <code>Objective-C++</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Green-hats/JetArm-Feeding-Robot">🤖 JetArm Feeding Robot</a></h3>
+      <p>融合嘴部定位、坐标估计与机械臂动作控制的辅助喂食流程。</p>
+      <p><code>Python</code> <code>ROS</code> <code>Computer Vision</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Green-hats/Feeding-Robot-Management-System">📊 Feeding Robot Management System</a></h3>
+      <p>辅助喂食机器人的数据管理、记录与统计系统。</p>
+      <p><code>Node.js</code> <code>Express</code> <code>SQLite</code></p>
+    </td>
+  </tr>
+</table>
 
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-</p>
+## 🧰 Tools I've used
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Green-hats&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Green-hats GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-hats&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite,ros,apple,git&theme=dark&perline=9" alt="Swift, Python, TypeScript, Node.js, FastAPI, SQLite, ROS, Apple platforms and Git" />
+</div>
+
+## 📊 GitHub snapshot
+
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Green-hats&theme=tokyonight" alt="Green-hats GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Green-hats&theme=tokyonight" alt="Repositories by language" />
 </div>
 
 ---
