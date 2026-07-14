@@ -19,7 +19,7 @@
 ## 🧰 Tools I've used
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite,ros,apple,git&theme=dark&perline=9" alt="Swift, Python, TypeScript, Node.js, FastAPI, SQLite, ROS, Apple platforms and Git" />
+  <img height="38" src="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite&theme=dark&perline=6" alt="Swift, Python, TypeScript, Node.js, FastAPI and SQLite" />
 </div>
 
 ## 📊 GitHub stats
