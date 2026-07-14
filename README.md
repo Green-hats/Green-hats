@@ -5,7 +5,6 @@
 </a>
 
 [![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Green--hats-181717?style=flat-square&logo=github)](https://github.com/Green-hats)
 [![Blog](https://img.shields.io/badge/Blog-blog.greenhats.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://blog.greenhats.dev)
 
 </div>
