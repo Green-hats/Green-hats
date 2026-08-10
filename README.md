@@ -12,7 +12,7 @@
 ## 👋 About me
 
 > 学生开发者 <br>
-> 正在尝试桌面应用、AI Agent、Python 自动化和机器人相关项目。<br>
+> 正在尝试 AI Agent、桌面应用、Python 自动化和机器人相关项目。<br>
 > 喜欢把真实需求做成可以运行、可以交付的工具。
 
 ## 🧰 Tools I've used
