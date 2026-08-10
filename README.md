@@ -19,8 +19,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite&theme=dark&perline=6" />
-    <img height="38" src="https://skillicons.dev/icons?i=swift,py,ts,nodejs,fastapi,sqlite&theme=light&perline=6" alt="Swift, Python, TypeScript, Node.js, FastAPI and SQLite" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,ts,react,go,swift&theme=dark&perline=6" />
+    <img height="38" src="https://skillicons.dev/icons?i=py,fastapi,ts,react,go,swift&theme=light&perline=6" alt="Python, FastAPI, TypeScript, React, Go and Swift" />
   </picture>
 </div>
 
