@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Green-hats">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Learning+by+building;Building+AI+agents+%26+desktop+tools;Turning+ideas+into+working+tools;Exploring+AI%2C+desktop+%26+robotics" alt="Learning by building; Building AI agents and desktop tools; Turning ideas into working tools; Exploring AI, desktop and robotics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Learning+by+building;Learning+AI+agents+with+passion;Turning+ideas+into+working+tools;Exploring+AI%2C+desktop+%26+robotics" alt="Learning by building; Learning AI agents with passion; Turning ideas into working tools; Exploring AI, desktop and robotics" />
 </a>
 
 [![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
