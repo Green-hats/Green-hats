@@ -29,14 +29,14 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Green-hats&show_icons=true&theme=tokyonight&hide_border=true" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api?username=Green-hats&show_icons=true&theme=default&hide_border=true" alt="Green-hats GitHub stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api?username=Green-hats&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img height="165" src="https://gh-readme-stats.vercel.app/api?username=Green-hats&show_icons=true&theme=default&hide_border=true" alt="Green-hats GitHub stats" />
     </picture>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Green-hats&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Green-hats&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Most used languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://gh-readme-stats.vercel.app/api/top-langs?username=Green-hats&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+      <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs?username=Green-hats&layout=compact&langs_count=6&theme=default&hide_border=true" alt="Most used languages" />
     </picture>
   </a>
 </div>
