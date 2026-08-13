@@ -19,7 +19,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,ts,react,go,swift&theme=dark&perline=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cts%2Creact%2Cgo%2Cswift&theme=dark&perline=6" />
     <img height="38" src="https://skillicons.dev/icons?i=py,fastapi,ts,react,go,swift&theme=light&perline=6" alt="Python, FastAPI, TypeScript, React, Go and Swift" />
   </picture>
 </div>
