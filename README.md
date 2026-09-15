@@ -16,31 +16,7 @@
 
 ## Open source
 
-<a href="https://github.com/huangruiteng/loopx">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Green-hats/Green-hats/main/assets/loopx-contribution-dark.svg" />
-    <img width="840" src="https://raw.githubusercontent.com/Green-hats/Green-hats/main/assets/loopx-contribution-light.svg" alt="LoopX 开源贡献者：跨平台兼容、回归测试、环境隔离" />
-  </picture>
-</a>
-
-<p align="center">
-  <a href="https://github.com/huangruiteng/loopx">项目主页 ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/huangruiteng/loopx/pulls?q=is%3Apr+author%3AGreen-hats">我的贡献 ↗</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Green-hats/loopx">我的 Fork ↗</a>
-</p>
-
-<details>
-<summary><b>已合并贡献</b> · 查看 3 项代表工作</summary>
-
-| 方向 | 贡献 | PR |
-| :--- | :--- | :---: |
-| Windows 兼容 | 修复 GitHub 元数据与候选证据的 UTF-8 解码 | [#4158](https://github.com/huangruiteng/loopx/pull/4158) |
-| Node.js 26 兼容 | 修复诊断格式变化导致的一致性测试失败 | [#4168](https://github.com/huangruiteng/loopx/pull/4168) |
-| 启动与隔离 | 完善安装引导、宿主启动和子进程环境隔离测试 | [#4216](https://github.com/huangruiteng/loopx/pull/4216) |
-
-</details>
+参与 [LoopX](https://github.com/huangruiteng/loopx) 开源贡献，改进跨平台兼容性与回归测试。
 
 ## Stack
 
