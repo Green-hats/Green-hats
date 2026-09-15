@@ -15,6 +15,20 @@
 > 正在尝试 AI Agent、桌面应用、Python 自动化和机器人相关项目。<br>
 > 喜欢把真实需求做成可以运行、可以交付的工具。
 
+## 🤝 Open source
+
+### [LoopX](https://github.com/huangruiteng/loopx) · Contributor
+
+面向长周期 AI Agent 的开源控制平面，为 Codex、Claude Code 等工具提供任务状态持久化与跨轮次协作能力。
+
+参与跨平台兼容性修复与回归测试，代表贡献已合并：
+
+- **Windows 编码兼容**：修复非 UTF-8 环境下 GitHub 元数据与候选证据的解码问题，保留中文、emoji 等 Unicode 内容。[#4158](https://github.com/huangruiteng/loopx/pull/4158)
+- **Node.js 26 兼容**：修复错误诊断格式变化导致的写入保护一致性测试失败，并补充边界回归用例。[#4168](https://github.com/huangruiteng/loopx/pull/4168)
+- **原生宿主启动验证**：完善安装引导与宿主启动回归测试，验证 `--bootstrap` 调用及子进程环境隔离。[#4216](https://github.com/huangruiteng/loopx/pull/4216)
+
+[查看全部 PR](https://github.com/huangruiteng/loopx/pulls?q=is%3Apr+author%3AGreen-hats) · [我的 Fork](https://github.com/Green-hats/loopx)
+
 ## 🧰 Tools I've used
 
 <div align="center">
