@@ -26,7 +26,7 @@
 
 ## 🤝 Open source
 
-参与 [LoopX](https://github.com/huangruiteng/loopx) 开源贡献，改进跨平台兼容性与回归测试。
+- 🌱 **Open Source Contributor** — [LoopX](https://github.com/huangruiteng/loopx)
 
 ## 📊 GitHub stats
 
