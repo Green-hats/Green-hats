@@ -1,24 +1,21 @@
 <div align="center">
 
 <a href="https://github.com/Green-hats">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=10B981&center=true&vCenter=true&width=680&lines=Learning+by+building;Turning+ideas+into+working+tools;Learning+AI+agents+with+passion;Exploring+AI%2C+desktop+%26+robotics" alt="Learning by building; Turning ideas into working tools; Learning AI agents with passion; Exploring AI, desktop and robotics" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Learning+by+building;Turning+ideas+into+working+tools;Learning+AI+agents+with+passion;Exploring+AI%2C+desktop+%26+robotics" alt="Learning by building; Turning ideas into working tools; Learning AI agents with passion; Exploring AI, desktop and robotics" />
 </a>
 
-[![Email](https://img.shields.io/badge/Email-22470456%40qq.com-087F5B?style=flat&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.greenhats.dev-536D62?style=flat&logo=hexo&logoColor=white)](https://blog.greenhats.dev)
+[![Email](https://img.shields.io/badge/Email-22470456%40qq.com-168DE2?style=flat-square&logo=maildotru&logoColor=white)](mailto:22470456@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.greenhats.dev-0E83CD?style=flat-square&logo=hexo&logoColor=white)](https://blog.greenhats.dev)
 
 </div>
 
-## About
+## 👋 About me
 
-学生开发者，探索 **AI Agent · 桌面应用 · Python 自动化 · 机器人**。  
-喜欢把真实需求做成可以运行、可以交付的工具。
+> 学生开发者 <br>
+> 正在尝试 AI Agent、桌面应用、Python 自动化和机器人相关项目。<br>
+> 喜欢把真实需求做成可以运行、可以交付的工具。
 
-## Open source
-
-参与 [LoopX](https://github.com/huangruiteng/loopx) 开源贡献，改进跨平台兼容性与回归测试。
-
-## Stack
+## 🧰 Tools I've used
 
 <div align="center">
   <picture>
@@ -27,7 +24,11 @@
   </picture>
 </div>
 
-## Activity
+## 🤝 Open source
+
+参与 [LoopX](https://github.com/huangruiteng/loopx) 开源贡献，改进跨平台兼容性与回归测试。
+
+## 📊 GitHub stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
