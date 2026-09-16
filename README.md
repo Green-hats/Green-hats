@@ -26,7 +26,7 @@
 
 ## 🤝 Open source
 
-- 🌱 **Open Source Contributor** — [LoopX](https://github.com/huangruiteng/loopx)
+- 🌱 **Open Source Contributor** — [LoopX](https://github.com/huangruiteng/loopx)（⭐ 5,859）· 兼容性修复与回归测试
 
 ## 📊 GitHub stats
 
